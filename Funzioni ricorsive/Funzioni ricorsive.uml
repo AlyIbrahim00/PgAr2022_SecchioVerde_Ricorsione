@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:UMLLabProfile="http:///schemas/UMLLabProfile/NS/0" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xsi:schemaLocation="http:///schemas/UMLLabProfile/NS/0 pathmap://UMLLAB_PROFILES/UMLLab.profile.uml#UMLLabProfile-Annotation_2-UMLLabProfile">
+  <uml:Model xmi:id="_PMTuoNrOEeyc8rPM89fBVg" name="Funzioni_ricorsive">
+    <eAnnotations xmi:id="_PTf7wNrOEeyc8rPM89fBVg" source="http://ns.yatta.de/umllab">
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_PTf7wdrOEeyc8rPM89fBVg" source="codegen">
+        <details xmi:id="_PTgi0NrOEeyc8rPM89fBVg" key="codegenDirectory" value="/Funzioni ricorsive/src"/>
+        <details xmi:id="_PT0r4NrOEeyc8rPM89fBVg" key="observedFolders" value="/Funzioni ricorsive/src"/>
+      </contents>
+    </eAnnotations>
+    <profileApplication xmi:id="_PTi_ENrOEeyc8rPM89fBVg">
+      <eAnnotations xmi:id="_PToeoNrOEeyc8rPM89fBVg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="pathmap://UMLLAB_PROFILES/UMLLab.profile.uml#UMLLabProfile-Annotation_2-UMLLabProfile"/>
+      </eAnnotations>
+      <appliedProfile href="pathmap://UMLLAB_PROFILES/UMLLab.profile.uml#UMLLabProfile"/>
+    </profileApplication>
+  </uml:Model>
+  <UMLLabProfile:TargetLanguage xmi:id="_PTvMUNrOEeyc8rPM89fBVg" base_Package="_PMTuoNrOEeyc8rPM89fBVg">
+    <languageName>java</languageName>
+  </UMLLabProfile:TargetLanguage>
+</xmi:XMI>
